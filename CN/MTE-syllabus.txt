@@ -1,0 +1,78 @@
+MODULE 1 — PHYSICAL
+│
+├── Networking Fundamentals
+├── OSI
+├── TCP/IP
+├── Data & Signals
+├── Bandwidth / Bit Rate / Bit Length
+├── Transmission Impairment
+│   ├── Attenuation
+│   ├── Distortion
+│   └── Noise
+├── Performance
+│   ├── Throughput
+│   ├── Latency
+│   ├── Delay
+│   └── Jitter
+├── Transmission Media
+│   ├── Twisted Pair
+│   ├── Coaxial
+│   ├── Fiber
+│   └── Wireless
+├── Line Coding
+├── Block Coding
+├── Scrambling
+│   ├── HDB3
+│   └── B8ZS
+└── Modulation
+    ├── ASK
+    ├── FSK
+    ├── PSK
+    └── QAM
+
+MODULE 2 — DATA LINK + MAC
+│
+├── Framing
+├── Error Detection
+│   ├── Types of Errors
+│   ├── Redundancy
+│   └── CRC
+├── Error Correction
+│   └── Block Codes
+├── Flow Control
+│   ├── Stop-and-Wait
+│   ├── Piggybacking
+│   └── Sliding Window
+├── Error Control
+│   ├── Stop-and-Wait ARQ
+│   ├── Go-Back-N
+│   └── Selective Repeat
+├── HDLC
+└── MAC
+    ├── Shared Media
+    ├── ALOHA
+    ├── CSMA
+    ├── CSMA/CD
+    └── CSMA/CA
+
+MODULE 3 — NETWORK LAYER
+│
+├── Packet Switching
+├── Network Layer Services
+│   ├── Connectionless
+│   └── Connection-oriented
+├── IPv4
+│   ├── Addressing
+│   ├── Header
+│   └── Classful Addressing
+├── Subnetting
+├── Classless Addressing
+├── CIDR
+├── VLSM
+├── IPv6
+│   ├── Addressing
+│   └── Header
+└── Routing
+    ├── Shortest Path
+    ├── Flooding
+    └── Distance Vector
